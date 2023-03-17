@@ -1,5 +1,7 @@
 # Checkly Monitoring-as-code: Boilerplate Project
 
+![](https://api.checklyhq.com/v1/badges/checks/2860316b-9b1d-4fbc-85b7-c9ceb52f0566?style=for-the-badge&theme=light)
+
 This example project shows how you can use the Checkly CLI in a Monitoring-as-Code (MaC) workflow. We are using the
 https://checklyhq.com website as a monitoring target.
 
